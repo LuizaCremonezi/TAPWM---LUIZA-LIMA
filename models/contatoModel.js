@@ -1,10 +1,8 @@
 const mongoose = require('mongoose');
-const contatoSchema = new mongoose. Schema({
+const contatoSchema = new mongoose.Schema({
 nome: {
-type:
-String,
-required: [
-true, 'O nome é obrigatório']
+type: String,
+required: [true, 'O nome é obrigatório']
 },
 email: {
 type: String,

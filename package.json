@@ -1,10 +1,28 @@
 {
   "scripts": {
-    "start":"node app.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
+    "mongoose": "^9.6.2",
     "mongose": "^0.0.2-security"
-  }
+  },
+  "name": "tapwm---luiza-lima",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizaCremonezi/TAPWM---LUIZA-LIMA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LuizaCremonezi/TAPWM---LUIZA-LIMA/issues"
+  },
+  "homepage": "https://github.com/LuizaCremonezi/TAPWM---LUIZA-LIMA#readme"
 }
